@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE group  SYSTEM "group.dtd">
+<group>
+    <student firstname="Alex" lastname="Radionov" groupnumber="IN-91">
+        <subject title="Math" mark="4"></subject>
+        <average>50</average>
+    </student>
+    <student firstname="Oleg" lastname="Samsonov" groupnumber="IN-395">
+        <subject title="Eng" mark="4"></subject>
+        <average>50</average>
+    </student>
+    <student firstname="Alex" lastname="Radionov" groupnumber="IN-91">
+        <subject title="Math" mark="3"></subject>
+        <subject title="Ukr" mark="4"></subject>
+        <subject title="Phis" mark="5"></subject>
+    </student>
+</group>
